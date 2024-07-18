@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226225653394",
+    "project_id": "klstore-28842",
+    "storage_bucket": "klstore-28842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226225653394:android:0414b09727fe59ce95c84b",
+        "android_client_info": {
+          "package_name": "com.store.kl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRPYyWanxLt-g-B1nHPG0-R7oPchALq58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
